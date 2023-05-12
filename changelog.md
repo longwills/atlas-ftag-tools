@@ -1,6 +1,8 @@
 # Changelog
 
 ### [Latest]
+### [v0.1.4]
+- Add codes to copy attributes from the original files to the merged file
 
 ### [v0.1.3]
 - Fix for sample class [#28](https://github.com/umami-hep/atlas-ftag-tools/pull/28/)
